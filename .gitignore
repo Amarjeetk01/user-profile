@@ -26,3 +26,4 @@ dist-ssr
 # dotenv environment variables file
 .env
 .env.test
+env
